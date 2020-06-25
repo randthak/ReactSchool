@@ -1,0 +1,25 @@
+.Logo{
+    width: 50px;
+    height: 50px;
+    left: 15px;
+    top: 15px;
+    position: relative;
+}
+
+.LogoImg{
+    width: 10%;
+    height: 80%;
+}
+
+.Name{
+    height: 80%;
+    line-height: 80%;
+    width: 20%;
+}
+
+.Name span{
+    height: 80%;
+    line-height: 3;
+    vertical-align: middle;
+    display: inline-block;
+}

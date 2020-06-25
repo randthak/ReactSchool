@@ -1,0 +1,30 @@
+.TopNav{
+  width: 1000px;
+  height: 80px;
+  margin: 5px auto;
+  background-color: whitesmoke;
+  display: flex;
+}
+
+.Bottom{
+  width: 1000px;
+  height: 800px;
+  margin: 5px auto;
+}
+
+
+.LeftNav{
+  width: 20%;
+  height: 500px;
+  background-color: teal;
+  left: 0;
+  display:inline-flex;
+}
+.Page{
+  width: 80%;
+  height: 500px;
+  background-color: lightblue;
+  display:inline-flex;
+  text-align: center;
+  align-content: center;
+}

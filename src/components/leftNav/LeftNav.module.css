@@ -1,0 +1,8 @@
+.LeftNavItem{
+    width: 100%;
+    height: 25px;
+    margin: 10px 0;
+    background-color: coral;
+    color: black;
+    display: inline-flex;
+}
